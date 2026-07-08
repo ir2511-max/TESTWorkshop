@@ -1,0 +1,1 @@
+No digest yet — run the workflow once to generate the first report.
