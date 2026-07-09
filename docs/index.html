@@ -2,22 +2,123 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>AI x Luxury Fashion — Weekly Digest</title>
 <style>
+  :root {
+    --bg: #0e0e10;
+    --card: #18181b;
+    --text: #f2f2f0;
+    --muted: #a1a1aa;
+    --accent: #d4af37;
+  }
+  * { box-sizing: border-box; }
   body {
-    background: #0e0e10;
-    color: #f2f2f0;
+    margin: 0;
+    padding: 60px 20px;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Georgia', 'Times New Roman', serif;
+  }
+  .wrap { max-width: 720px; margin: 0 auto; }
+  header { text-align: center; margin-bottom: 48px; }
+  header h1 {
+    font-size: 2.1rem;
+    letter-spacing: 0.03em;
+    margin: 0 0 8px;
+  }
+  header p { color: var(--muted); font-family: sans-serif; font-size: 0.9rem; }
+  .card {
+    background: var(--card);
+    border: 1px solid #27272a;
+    border-radius: 10px;
+    padding: 28px 32px;
+    margin-bottom: 24px;
+    position: relative;
+  }
+  .rank {
+    position: absolute;
+    top: -14px;
+    left: -14px;
+    background: var(--accent);
+    color: #111;
     font-family: sans-serif;
+    font-weight: 700;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
-    margin: 0;
-    text-align: center;
+    font-size: 0.85rem;
   }
+  .card h2 { font-size: 1.25rem; margin: 4px 0 12px; line-height: 1.35; }
+  .card p { color: #d4d4d8; line-height: 1.6; margin: 0 0 16px; }
+  .meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: sans-serif;
+    font-size: 0.85rem;
+  }
+  .source { color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  footer { text-align: center; color: var(--muted); font-family: sans-serif; font-size: 0.8rem; margin-top: 40px; }
 </style>
 </head>
 <body>
-  <p>No digest yet — run the workflow once to generate the first page.</p>
+  <div class="wrap">
+    <header>
+      <h1>AI &times; Luxury Fashion</h1>
+      <p>Weekly Digest &middot; Updated July 09, 2026</p>
+    </header>
+      <article class="card">
+        <span class="rank">1</span>
+        <h2>Bain & Comité Colbert Report: Luxury Shoppers Are Adopting AI Faster Than Brands Can Adapt</h2>
+        <p>The fifth annual Bain & Company/Comité Colbert 'Luxury and Technology' report found that 22% of luxury houses now rank AI among their top three corporate priorities, up from just 5% in 2024, while 82% of top-tier luxury spenders used an AI tool during their most recent purchase. The report warns of a widening 'discovery gap' since AI adoption remains concentrated in back-office functions (31%) while customer-facing deployment lags at 21%, and 90% of URLs cited by AI search engines for luxury queries point outside brand-owned sites.</p>
+        <div class="meta">
+          <span class="source">JCK / Bain & Company</span>
+          <a href="https://www.jckonline.com/editorial-article/ai-is-reshaping-luxury-shopping-faster-than-brands-are-adapting-bain-report-finds/" target="_blank" rel="noopener">Read article &rarr;</a>
+        </div>
+      </article>
+      <article class="card">
+        <span class="rank">2</span>
+        <h2>BCG-Altagamma Study Finds Consumers Overwhelmingly Accept AI in Luxury as Sector Rebounds</h2>
+        <p>A new BCG report on the True-Luxury consumer survey found that personal luxury is 'back on track,' with growth for FY26 expected at 2-5% CAGR, and that 62% of consumers now expect AI/GenAI involvement across key luxury use cases. The study found 83% of respondents say they'll view a brand positively or the same if they discover it uses AI, with resistance concentrated mainly around AI-generated advertising campaigns rather than personalization or design.</p>
+        <div class="meta">
+          <span class="source">BCG</span>
+          <a href="https://www.bcg.com/publications/2026/luxury-healthier-foundations-and-genai" target="_blank" rel="noopener">Read article &rarr;</a>
+        </div>
+      </article>
+      <article class="card">
+        <span class="rank">3</span>
+        <h2>Luxury Brands Face New 'GEO' Battle as AI Becomes the New Search Engine for Discovery</h2>
+        <p>Following the Comité Colbert and Bain study, luxury houses are grappling with a new visibility crisis as AI chatbots like ChatGPT increasingly mediate the discovery journey, with nearly 70% of luxury-related AI queries not mentioning any specific brand. Search expert Jan-Willem Bobbink noted that when an AI answer appears at the top of a search, a website loses significant traffic, forcing brands to prioritize Generative Engine Optimization (GEO) over traditional SEO.</p>
+        <div class="meta">
+          <span class="source">FashionUnited</span>
+          <a href="https://fashionunited.uk/news/business/ai-and-luxury-new-battle-for-visibility-on-chatgpt/2026070388963" target="_blank" rel="noopener">Read article &rarr;</a>
+        </div>
+      </article>
+      <article class="card">
+        <span class="rank">4</span>
+        <h2>Study: Top Luxury Spenders in China and US Leading AI-Assisted Purchase Journeys</h2>
+        <p>Bain's April 2026 consumer survey across France, the US, and China revealed that 64% of Chinese shoppers and 54% of American shoppers used AI during their most recent luxury purchase, compared with only 27% in France. Nearly all surveyed shoppers, 97%, said they intend to use AI again for future luxury purchases, using it not for specific product searches but for stylistic inspiration and comparison before ever considering a specific maison.</p>
+        <div class="meta">
+          <span class="source">WWD</span>
+          <a href="https://wwd.com/business-news/technology/luxury-shoppers-adopting-ai-faster-than-brands-1239049435/" target="_blank" rel="noopener">Read article &rarr;</a>
+        </div>
+      </article>
+      <article class="card">
+        <span class="rank">5</span>
+        <h2>Design Experts Argue 'Taste' Becomes Luxury's Key Differentiator as AI Content Proliferates</h2>
+        <p>As generative AI tools lower the barrier to producing polished campaign visuals, brand strategists are warning that the resulting sameness across the market threatens the exclusivity luxury brands depend on. The analysis argues that human creative judgment, not AI production speed, will determine which premium brands remain memorable and can sustain pricing power in 2026.</p>
+        <div class="meta">
+          <span class="source">Schweitzer Designs</span>
+          <a href="https://www.schweitzerdesigns.com/post/ai-luxury-branding-taste-advantage" target="_blank" rel="noopener">Read article &rarr;</a>
+        </div>
+      </article>
+    <footer>Generated automatically every week via Claude + GitHub Actions.</footer>
+  </div>
 </body>
 </html>

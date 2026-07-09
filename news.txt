@@ -1,1 +1,27 @@
-No digest yet — run the workflow once to generate the first report.
+AI x Luxury Fashion — Weekly Digest (July 09, 2026)
+============================================================
+
+1. Bain & Comité Colbert Report: Luxury Shoppers Are Adopting AI Faster Than Brands Can Adapt
+   The fifth annual Bain & Company/Comité Colbert 'Luxury and Technology' report found that 22% of luxury houses now rank AI among their top three corporate priorities, up from just 5% in 2024, while 82% of top-tier luxury spenders used an AI tool during their most recent purchase. The report warns of a widening 'discovery gap' since AI adoption remains concentrated in back-office functions (31%) while customer-facing deployment lags at 21%, and 90% of URLs cited by AI search engines for luxury queries point outside brand-owned sites.
+   Source: JCK / Bain & Company
+   URL: https://www.jckonline.com/editorial-article/ai-is-reshaping-luxury-shopping-faster-than-brands-are-adapting-bain-report-finds/
+
+2. BCG-Altagamma Study Finds Consumers Overwhelmingly Accept AI in Luxury as Sector Rebounds
+   A new BCG report on the True-Luxury consumer survey found that personal luxury is 'back on track,' with growth for FY26 expected at 2-5% CAGR, and that 62% of consumers now expect AI/GenAI involvement across key luxury use cases. The study found 83% of respondents say they'll view a brand positively or the same if they discover it uses AI, with resistance concentrated mainly around AI-generated advertising campaigns rather than personalization or design.
+   Source: BCG
+   URL: https://www.bcg.com/publications/2026/luxury-healthier-foundations-and-genai
+
+3. Luxury Brands Face New 'GEO' Battle as AI Becomes the New Search Engine for Discovery
+   Following the Comité Colbert and Bain study, luxury houses are grappling with a new visibility crisis as AI chatbots like ChatGPT increasingly mediate the discovery journey, with nearly 70% of luxury-related AI queries not mentioning any specific brand. Search expert Jan-Willem Bobbink noted that when an AI answer appears at the top of a search, a website loses significant traffic, forcing brands to prioritize Generative Engine Optimization (GEO) over traditional SEO.
+   Source: FashionUnited
+   URL: https://fashionunited.uk/news/business/ai-and-luxury-new-battle-for-visibility-on-chatgpt/2026070388963
+
+4. Study: Top Luxury Spenders in China and US Leading AI-Assisted Purchase Journeys
+   Bain's April 2026 consumer survey across France, the US, and China revealed that 64% of Chinese shoppers and 54% of American shoppers used AI during their most recent luxury purchase, compared with only 27% in France. Nearly all surveyed shoppers, 97%, said they intend to use AI again for future luxury purchases, using it not for specific product searches but for stylistic inspiration and comparison before ever considering a specific maison.
+   Source: WWD
+   URL: https://wwd.com/business-news/technology/luxury-shoppers-adopting-ai-faster-than-brands-1239049435/
+
+5. Design Experts Argue 'Taste' Becomes Luxury's Key Differentiator as AI Content Proliferates
+   As generative AI tools lower the barrier to producing polished campaign visuals, brand strategists are warning that the resulting sameness across the market threatens the exclusivity luxury brands depend on. The analysis argues that human creative judgment, not AI production speed, will determine which premium brands remain memorable and can sustain pricing power in 2026.
+   Source: Schweitzer Designs
+   URL: https://www.schweitzerdesigns.com/post/ai-luxury-branding-taste-advantage
